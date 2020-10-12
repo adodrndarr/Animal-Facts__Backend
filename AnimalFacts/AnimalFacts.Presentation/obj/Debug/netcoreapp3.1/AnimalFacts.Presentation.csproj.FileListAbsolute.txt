@@ -1,0 +1,9 @@
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.Presentation\bin\Debug\netcoreapp3.1\AnimalFacts.Presentation.deps.json
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.Presentation\bin\Debug\netcoreapp3.1\AnimalFacts.Presentation.dll
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.Presentation\bin\Debug\netcoreapp3.1\AnimalFacts.Presentation.pdb
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.Presentation\obj\Debug\netcoreapp3.1\AnimalFacts.Presentation.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.Presentation\obj\Debug\netcoreapp3.1\AnimalFacts.Presentation.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.Presentation\obj\Debug\netcoreapp3.1\AnimalFacts.Presentation.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.Presentation\obj\Debug\netcoreapp3.1\AnimalFacts.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.Presentation\obj\Debug\netcoreapp3.1\AnimalFacts.Presentation.dll
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.Presentation\obj\Debug\netcoreapp3.1\AnimalFacts.Presentation.pdb

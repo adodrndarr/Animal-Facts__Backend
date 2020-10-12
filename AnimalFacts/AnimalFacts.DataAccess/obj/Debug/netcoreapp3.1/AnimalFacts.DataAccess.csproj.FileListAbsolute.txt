@@ -1,0 +1,17 @@
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\bin\Debug\netcoreapp3.1\AnimalFacts.DataAccess.deps.json
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\bin\Debug\netcoreapp3.1\AnimalFacts.DataAccess.dll
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\obj\Debug\netcoreapp3.1\AnimalFacts.DataAccess.csprojAssemblyReference.cache
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\obj\Debug\netcoreapp3.1\AnimalFacts.DataAccess.AssemblyInfoInputs.cache
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\obj\Debug\netcoreapp3.1\AnimalFacts.DataAccess.AssemblyInfo.cs
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\bin\Debug\netcoreapp3.1\AnimalFacts.Domain.dll
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\bin\Debug\netcoreapp3.1\AnimalFacts.DataAccess.runtimeconfig.json
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\bin\Debug\netcoreapp3.1\AnimalFacts.DataAccess.runtimeconfig.dev.json
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\bin\Debug\netcoreapp3.1\AnimalFacts.DataAccess.pdb
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\bin\Debug\netcoreapp3.1\AnimalFacts.Domain.pdb
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\obj\Debug\netcoreapp3.1\AnimalFacts.DataAccess.csproj.CopyComplete
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\obj\Debug\netcoreapp3.1\AnimalFacts.DataAccess.dll
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\obj\Debug\netcoreapp3.1\AnimalFacts.DataAccess.pdb
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\obj\Debug\netcoreapp3.1\AnimalFacts.DataAccess.genruntimeconfig.cache
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\bin\Debug\netcoreapp3.1\AnimalFacts.Presentation.dll
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\bin\Debug\netcoreapp3.1\AnimalFacts.Presentation.pdb
+C:\Users\drnda_000\Desktop\files\PROJECTS\Backend Projects\AnimalFacts\AnimalFacts.DataAccess\obj\Debug\netcoreapp3.1\AnimalFacts.DataAccess.csproj.CoreCompileInputs.cache

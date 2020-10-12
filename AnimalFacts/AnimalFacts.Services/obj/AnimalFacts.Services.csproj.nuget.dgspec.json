@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Services\\AnimalFacts.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.DataAccess\\AnimalFacts.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.DataAccess\\AnimalFacts.DataAccess.csproj",
+        "projectName": "AnimalFacts.DataAccess",
+        "projectPath": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.DataAccess\\AnimalFacts.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\drnda_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drnda_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Domain\\AnimalFacts.Domain.csproj": {
+                "projectPath": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Domain\\AnimalFacts.Domain.csproj"
+              },
+              "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Presentation\\AnimalFacts.Presentation.csproj": {
+                "projectPath": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Presentation\\AnimalFacts.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Domain\\AnimalFacts.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Domain\\AnimalFacts.Domain.csproj",
+        "projectName": "AnimalFacts.Domain",
+        "projectPath": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Domain\\AnimalFacts.Domain.csproj",
+        "packagesPath": "C:\\Users\\drnda_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drnda_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Presentation\\AnimalFacts.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Presentation\\AnimalFacts.Presentation.csproj",
+        "projectName": "AnimalFacts.Presentation",
+        "projectPath": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Presentation\\AnimalFacts.Presentation.csproj",
+        "packagesPath": "C:\\Users\\drnda_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drnda_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Services\\AnimalFacts.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Services\\AnimalFacts.Services.csproj",
+        "projectName": "AnimalFacts.Services",
+        "projectPath": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Services\\AnimalFacts.Services.csproj",
+        "packagesPath": "C:\\Users\\drnda_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\drnda_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.DataAccess\\AnimalFacts.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\drnda_000\\Desktop\\files\\PROJECTS\\Backend Projects\\AnimalFacts\\AnimalFacts.DataAccess\\AnimalFacts.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
